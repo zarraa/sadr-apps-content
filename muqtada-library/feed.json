@@ -1,0 +1,17 @@
+{
+ "schema": 1,
+ "app": "muqtada-library",
+ "updatedAt": "2026-10-29T10:29:45.447Z",
+ "hero": null,
+ "gallery": [
+  {
+   "file": "gallery/001-mvtej1w5.webp",
+   "thumb": "gallery/001-mvtej1w5.thumb.webp",
+   "title": "",
+   "source": "",
+   "sourceUrl": ""
+  }
+ ],
+ "items": [],
+ "removed": []
+}
