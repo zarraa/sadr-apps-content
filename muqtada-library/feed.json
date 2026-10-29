@@ -1,24 +1,37 @@
 {
  "schema": 1,
  "app": "muqtada-library",
- "updatedAt": "2026-10-29T13:00:51.489Z",
+ "updatedAt": "2026-10-29T13:05:07.158Z",
  "hero": null,
  "gallery": [
   {
-   "file": "gallery/001-mvtjxcrz.webp",
-   "thumb": "gallery/001-mvtjxcrz.thumb.webp",
+   "file": "gallery/001-mvtk2twp.webp",
+   "thumb": "gallery/001-mvtk2twp.thumb.webp",
    "title": "",
    "source": "",
    "sourceUrl": ""
   },
   {
-   "file": "gallery/002-mvtjxcrz.webp",
-   "thumb": "gallery/002-mvtjxcrz.thumb.webp",
+   "file": "gallery/002-mvtk2twp.webp",
+   "thumb": "gallery/002-mvtk2twp.thumb.webp",
    "title": "",
    "source": "",
    "sourceUrl": ""
   }
  ],
- "items": [],
+ "items": [
+  {
+   "type": "speech",
+   "title": "الخطبة الاولى الكاملة للسيد الشهيد محمد صادق الصدر قدّسَ الله سره الشريف",
+   "topics": [],
+   "summary": "تم بحمد الله تعالى تنزيل كل الخطب الشريفة للسيد الشهيد الصدر قدس الله روحه الزكية الجنة وتنزيل كل المحاظرات  للسيد الشهيد الصدر بعنوان (( شذرات من سيرة الامام الحسين عليه السلام وعددها 68 محاضرة)) ((واللقاء النادر للسيد الشهيد الصدر مع المرحوم عباس الدراجي)) ((ولقاء ائمة الجمع))(( ولقاء الجمعة التاسع )) وكل الخطب واللقاءات للسيد القائد مقتدى الخير اعزه الله (( تقريباً)) .(( ولا تنسوا  الفاتحة والدعاء للسيد الشهيد الصدر قدس سره))))",
+   "summaryIsEditorial": true,
+   "media": {
+    "video": "https://youtu.be/Rtr3xxV1-Dw?si=BnhEegG5luMTq4a4"
+   },
+   "id": "speech-2026-10-29-24mn",
+   "status": "verified"
+  }
+ ],
  "removed": []
 }
