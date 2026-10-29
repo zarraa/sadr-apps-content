@@ -1,19 +1,19 @@
 {
  "schema": 1,
  "app": "muqtada-library",
- "updatedAt": "2026-10-29T13:05:07.158Z",
+ "updatedAt": "2026-10-29T13:07:30.400Z",
  "hero": null,
  "gallery": [
   {
-   "file": "gallery/001-mvtk2twp.webp",
-   "thumb": "gallery/001-mvtk2twp.thumb.webp",
+   "file": "gallery/001-mvtk5wjz.webp",
+   "thumb": "gallery/001-mvtk5wjz.thumb.webp",
    "title": "",
    "source": "",
    "sourceUrl": ""
   },
   {
-   "file": "gallery/002-mvtk2twp.webp",
-   "thumb": "gallery/002-mvtk2twp.thumb.webp",
+   "file": "gallery/002-mvtk5wjz.webp",
+   "thumb": "gallery/002-mvtk5wjz.thumb.webp",
    "title": "",
    "source": "",
    "sourceUrl": ""
@@ -21,6 +21,7 @@
  ],
  "items": [
   {
+   "id": "speech-2026-10-29-24mn",
    "type": "speech",
    "title": "الخطبة الاولى الكاملة للسيد الشهيد محمد صادق الصدر قدّسَ الله سره الشريف",
    "topics": [],
@@ -29,7 +30,6 @@
    "media": {
     "video": "https://youtu.be/Rtr3xxV1-Dw?si=BnhEegG5luMTq4a4"
    },
-   "id": "speech-2026-10-29-24mn",
    "status": "verified"
   }
  ],
