@@ -1,124 +1,124 @@
 {
  "schema": 1,
  "app": "muqtada-library",
- "updatedAt": "2026-10-29T19:54:31.771Z",
+ "updatedAt": "2026-11-11T20:04:26.357Z",
  "hero": null,
  "gallery": [
   {
-   "file": "gallery/001-mvtyp7d6.webp",
-   "thumb": "gallery/001-mvtyp7d6.thumb.webp",
+   "file": "gallery/001-mwcjs0ad.webp",
+   "thumb": "gallery/001-mwcjs0ad.thumb.webp",
    "title": "",
    "source": "",
    "sourceUrl": ""
   },
   {
-   "file": "gallery/002-mvtyp7d6.webp",
-   "thumb": "gallery/002-mvtyp7d6.thumb.webp",
+   "file": "gallery/002-mwcjs0ad.webp",
+   "thumb": "gallery/002-mwcjs0ad.thumb.webp",
    "title": "",
    "source": "",
    "sourceUrl": ""
   },
   {
-   "file": "gallery/003-mvtyp7d6.webp",
-   "thumb": "gallery/003-mvtyp7d6.thumb.webp",
+   "file": "gallery/003-mwcjs0ad.webp",
+   "thumb": "gallery/003-mwcjs0ad.thumb.webp",
    "title": "",
    "source": "",
    "sourceUrl": ""
   },
   {
-   "file": "gallery/004-mvtyp7d6.webp",
-   "thumb": "gallery/004-mvtyp7d6.thumb.webp",
+   "file": "gallery/004-mwcjs0ad.webp",
+   "thumb": "gallery/004-mwcjs0ad.thumb.webp",
    "title": "",
    "source": "",
    "sourceUrl": ""
   },
   {
-   "file": "gallery/005-mvtyp7d6.webp",
-   "thumb": "gallery/005-mvtyp7d6.thumb.webp",
+   "file": "gallery/005-mwcjs0ad.webp",
+   "thumb": "gallery/005-mwcjs0ad.thumb.webp",
    "title": "",
    "source": "",
    "sourceUrl": ""
   },
   {
-   "file": "gallery/006-mvtyp7d6.webp",
-   "thumb": "gallery/006-mvtyp7d6.thumb.webp",
+   "file": "gallery/006-mwcjs0ad.webp",
+   "thumb": "gallery/006-mwcjs0ad.thumb.webp",
    "title": "",
    "source": "",
    "sourceUrl": ""
   },
   {
-   "file": "gallery/007-mvtyp7d6.webp",
-   "thumb": "gallery/007-mvtyp7d6.thumb.webp",
+   "file": "gallery/007-mwcjs0ad.webp",
+   "thumb": "gallery/007-mwcjs0ad.thumb.webp",
    "title": "",
    "source": "",
    "sourceUrl": ""
   },
   {
-   "file": "gallery/008-mvtyp7d6.webp",
-   "thumb": "gallery/008-mvtyp7d6.thumb.webp",
+   "file": "gallery/008-mwcjs0ad.webp",
+   "thumb": "gallery/008-mwcjs0ad.thumb.webp",
    "title": "",
    "source": "",
    "sourceUrl": ""
   },
   {
-   "file": "gallery/009-mvtyp7d6.webp",
-   "thumb": "gallery/009-mvtyp7d6.thumb.webp",
+   "file": "gallery/009-mwcjs0ad.webp",
+   "thumb": "gallery/009-mwcjs0ad.thumb.webp",
    "title": "",
    "source": "",
    "sourceUrl": ""
   },
   {
-   "file": "gallery/010-mvtyp7d6.webp",
-   "thumb": "gallery/010-mvtyp7d6.thumb.webp",
+   "file": "gallery/010-mwcjs0ad.webp",
+   "thumb": "gallery/010-mwcjs0ad.thumb.webp",
    "title": "",
    "source": "",
    "sourceUrl": ""
   },
   {
-   "file": "gallery/011-mvtyp7d6.webp",
-   "thumb": "gallery/011-mvtyp7d6.thumb.webp",
+   "file": "gallery/011-mwcjs0ad.webp",
+   "thumb": "gallery/011-mwcjs0ad.thumb.webp",
    "title": "",
    "source": "",
    "sourceUrl": ""
   },
   {
-   "file": "gallery/012-mvtyp7d6.webp",
-   "thumb": "gallery/012-mvtyp7d6.thumb.webp",
+   "file": "gallery/012-mwcjs0ad.webp",
+   "thumb": "gallery/012-mwcjs0ad.thumb.webp",
    "title": "",
    "source": "",
    "sourceUrl": ""
   },
   {
-   "file": "gallery/013-mvtyp7d6.webp",
-   "thumb": "gallery/013-mvtyp7d6.thumb.webp",
+   "file": "gallery/013-mwcjs0ad.webp",
+   "thumb": "gallery/013-mwcjs0ad.thumb.webp",
    "title": "",
    "source": "",
    "sourceUrl": ""
   },
   {
-   "file": "gallery/014-mvtyp7d6.webp",
-   "thumb": "gallery/014-mvtyp7d6.thumb.webp",
+   "file": "gallery/014-mwcjs0ad.webp",
+   "thumb": "gallery/014-mwcjs0ad.thumb.webp",
    "title": "",
    "source": "",
    "sourceUrl": ""
   },
   {
-   "file": "gallery/015-mvtyp7d6.webp",
-   "thumb": "gallery/015-mvtyp7d6.thumb.webp",
+   "file": "gallery/015-mwcjs0ad.webp",
+   "thumb": "gallery/015-mwcjs0ad.thumb.webp",
    "title": "",
    "source": "",
    "sourceUrl": ""
   },
   {
-   "file": "gallery/016-mvtyp7d6.webp",
-   "thumb": "gallery/016-mvtyp7d6.thumb.webp",
+   "file": "gallery/016-mwcjs0ad.webp",
+   "thumb": "gallery/016-mwcjs0ad.thumb.webp",
    "title": "",
    "source": "",
    "sourceUrl": ""
   },
   {
-   "file": "gallery/017-mvtyp7d6.webp",
-   "thumb": "gallery/017-mvtyp7d6.thumb.webp",
+   "file": "gallery/017-mwcjs0ad.webp",
+   "thumb": "gallery/017-mwcjs0ad.thumb.webp",
    "title": "",
    "source": "",
    "sourceUrl": ""
@@ -139,6 +139,13 @@
   }
  ],
  "adhkar": [
+  {
+   "id": "dhikr-mwcjrw7k",
+   "title": "فضل ليلة الجمعة ونهارها وأعمالها",
+   "category": "أذكار يومية",
+   "text": "اعلم أنّ ليلة الجمعة ونهارها يمتازان على سائر الليالي والأيام سموّاً وشرفاً ونباهة. روي عن النّبي (صلى الله عليه وآله) قال: «إنّ ليلة الجمعة ونهارها أربع وعشرون ساعة لله عزّ وجلّ في كلّ ساعة ستمائة الف عتيق من النّار».\nوعن الصّادق (عليه السلام) قال: «من مات ما بين زوال الشمس من يوم الخميس الى زوال الشمس من يوم الجمعة أعاذه الله من ضغطة القبر».\nوعنه (عليه السلام) أيضاً قال: «إنّ للجمعة حقّاً فإياك أن تضيّع حرمته أو تقصّر في شيءٍ من عبادة الله تعالى والتقرّب إليه بالعمل الصّالح وترك المحارم كلّها فإنّ الله تعالى يضاعف فيه الحسنات ويمحو السّيّئات ويرفع فيه الدّرجات، ويومه مثل ليلته فإن استطعت أن تحييها بالدّعاء والصّلاة فافعل فإنّ الله تعالى يرسل فيها الملائكة الى السّماء الدّنيا لتضاعف فيها الحسنات وتمحو فيها السيّئات، وانّ الله واسعٌ كريم.\nوأيضاً في حديث معتبر عنه (عليه السلام) قال: «إنّ المؤمن ليدعو في الحاجة فيؤخر الله حاجته التي سأل الى يوم الجمعة ليخصّه بفضله (أي ليضاعف له بسبب فضل يوم الجمعة). وقال: لمّا سأل إخوة يوسف يعقوب أن يستغفر لهم قال: سوف أستغفر لكم ربّي ثمّ أخّر الاستغفار إلى السّحر من ليلة الجمعة كي يستجاب له».\nوعنه أيضاً قال: «إذا كانت ليلة الجمعة رفعت حيتان البحر رؤوسها ودوابّ البراري، ثمّ نادت بصوتٍ طلق: ربّنا لا تعذّبنا بذنوب الآدميّين».\nوعن الباقر (عليه السلام) قال: «إنّ الله تعالى ليأمر ملكاً فينادي كلّ ليلة جمعة من فوق عرشه من أوّل اللّيل إلى آخره: ألا عبد مؤمن يدعوني لآخرته ودنيا ه قبل طلوع الفجر فأجيبه، ألا عبد مؤمن يتوب إليّ من ذنوبه قبل طلوع الفجر فأتوب عليه، ألا عبد مؤمن قد قترت عليه رزقه فيسألني الزّيادة في رزقه قبل طلوع الفجر فأزيده وأوسع عليه، ألا عبد مؤمن سقيم فيسألني أن أشفيه قبل طلوع الفجر فأعافيه، ألا عبد مؤمن مغموم محبوس يسألني أن أطلقه من حبسه وأفرج عنه قبل طلوع الفجر فأطلقه وأخلّي سبيله، ألا عبد مظلوم يسألني أن آخذ له بظلامته قبل طلوع الفجر فأنتصر له وآخذ بظلامته. قال: فلا يزال ينادي حتّى يطلع الفجر».\nوعن أمير ألمؤمنين (عليه السلام) قال: «إنّ الله اختار الجمعة فجعل يومها عيداً، واختار ليلتها فجعلها مثلها. وإنّ من فضلها أن لا يسأل الله عزّ وجلّ أحد يوم الجمعة حاجة إلّا استجيب له، وإن استحقّ قومٌ عقاباً فصادفوا يوم الجمعة وليلتها صرف عنهم ذلك ولم يبق شيءٌ ممّا أحكمه الله وفضّله إلّا أبرمه في ليلة الجمعة. فليلة الجمعة أفضل اللّيالي ويومها أفضل الأيام».\nوعن الصّادق (عليه السلام) قال: «اجتنبوا المعاصي ليلة الجمعة، فإنّ السّيّئة مضاعفة والحسنة مضاعفة، ومن ترك معصية الله ليلة الجمعة غفر الله له كلّ ما سلف، ومن بارز الله ليلة الجمعة بمعصية أخذه الله بكلّ ما عمل في عمره وضاعف عليه العذاب بهذه المعصية».\nوبسند معتبر عن الرّضا (عليه السلام) قال: «قال رسول الله (صلى الله عليه وآله) : إنّ يوم الجمعة سيّد الأيام يضاعف الله عزّ وجلّ فيه الحسنات ويمحو فيه السيئات ويرفع فيه الدّرجات ويستجيب فيه الدّعوات ويكشف فيه الكربات ويقضي فيه الحوائج العظام، وهو يوم المزيد لله فيه عتقاء وطلقاء من النّار ما دعا فيه أحد من النّاس وعرف حقّه وحرمته إلاّ كان حقّاً على الله عزّ وجلّ أن يجعله من عتقائه و طلقاءه من النّار، فإن مات في يومه أو ليلته مات شهيداً وبعث آمناً. وما استخفّ أحد بحرمته وضيّع حقّه إلاّ كان حقاً على الله عزّ وجلّ أن يصلّيه نار جهنّم إلاّ أن يتوب».\nوبأسناد معتبرة عن الباقر (عليه السلام) قال: «ما طلعت الشّمس بيوم أفضل من يوم الجمعة، وإنّ كلّام الطّير إذا لقى بعضها بعضاً: سلام سلام يوم صالح».\nوبسند معتبر عن الصّادق (عليه السلام) قال: «من وافق منكم يوم الجمعة فلا يشتغلن بشيء غير العبادة فإنّ فيه يغفر للعباد وتنزل عليهم الرّحمة». وفضل ليلة الجمعة ونهارها أكثر من أن يورد في هذه الوجيزة.",
+   "reference": "مفاتح الجنان"
+  },
   {
    "id": "dhikr-mvtyp5mu",
    "title": "دعاء يوم السبت",
